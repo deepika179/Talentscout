@@ -1,0 +1,3 @@
+# OpenAI API Key - Get your key from https://platform.openai.com/api-keys
+# Leave empty to use fallback questions (no API required)
+OPENAI_API_KEY=
